@@ -4,9 +4,9 @@ Repository ini berisi kode program untuk artikel ilmiah dengan judul di atas. Pe
 
 ## Anggota Kelompok
 
-1. [Nama Anggota 1] - [NIM]
-2. [Nama Anggota 2] - [NIM]
-3. [Nama Anggota 3] - [NIM]
+1. [Stephen Baldwin] - [15241024]
+2. [Ilham Maulana] - []
+3. [Muhammad Zaid Dhiya'ulhaq] - []
 
 Program Studi [Nama Prodi], Universitas Bina Sarana Informatika
 
