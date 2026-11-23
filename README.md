@@ -5,8 +5,8 @@ Repository ini berisi kode program untuk artikel ilmiah dengan judul di atas. Pe
 ## Anggota Kelompok
 
 1. [Stephen Baldwin] - [15241024]
-2. [Ilham Maulana] - []
-3. [Muhammad Zaid Dhiya'ulhaq] - []
+2. [Ilham Maulana] - [15241002]
+3. [Muhammad Zaid Dhiya'ulhaq] - [15240021]
 
 Program Studi [Nama Prodi], Universitas Bina Sarana Informatika
 
